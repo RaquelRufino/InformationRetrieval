@@ -1,1 +1,3 @@
-# Recuperação da Informação e Busca na Web
+# Information Retrieval and Web Search
+
+Information Retrieval (IR) is a significant area in web mining where the users procure their needed information from the web. The documents in the web are in the form of web pages. As there is a high usage of data in the web, researchers are intended to do research in the field of IR. Web query classification and web page classification are leading major role to classify the web documents in IR using classification algorithms, based on the user query. The classified documents are indexed using ranking algorithm. This research paper aims to study about various methods of IR to classify and index the relevant web pages respectively.
